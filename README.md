@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Any tech related stuff
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: abdoumjr@gmail.com || +213558282830
+- 📫 How to reach me: abdoumjr@gmail.com
 - 😄 Pronouns: He, His
 - ⚡ Fun fact: listening to music while working, helps me to be productive
 

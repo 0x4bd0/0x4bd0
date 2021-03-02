@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4bd0&layout=compact&langs_count=15&title_color=ffffff&count_private=true&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0x4bd0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Support or Contact
 
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help! abdoumjr@gmail.com
